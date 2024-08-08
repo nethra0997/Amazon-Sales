@@ -24,3 +24,6 @@ Provides interactive filters for a detailed drill-down of sales data.
 Offers clear visualizations for quick and effective decision-making.
 
 ## Link to View
+<div style="width: 100%; height: 800px;">
+  <iframe title="Amazon_Sales_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjg5YTRkYWMtZTljMS00NWQyLThkNzctZTM1ZTFkYjZmMWMyIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
